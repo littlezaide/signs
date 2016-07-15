@@ -1,0 +1,28 @@
+**** types
+      - gateway :: large roadside sign at a boundary line. May be placed at the natural entrance to a county, municipality, town or site.
+      - community ID :: highway sign announcing the boundary of a community. Sign type defined by NS Transportation and Infrastructure Renewal (TIR) as /community ID/, and is placed at the official boundary of a community (formerly known as general service area (GSA)). The same sign is known as /community welcome sign/ in NL. \parencite{NLhighwaysigns1999} 
+      - promotional sign :: Sign to advertise a destination which lies far away (>10km). NL calls this /off-site promotional sign/ and defines the size as between 1.2 \times{} 2.4m and 2.4 \times{} 3.6m. \parencite{NLhighwaysigns1999} NS calls these advertising signs, and they may not be within 300m of an intersection in <80km/h zones, or 500m in >80km/h zones. 
+      - fingerboard :: modular signs which advertise nearby features and amenities. Generally under the provincial highway department's jurisdiction. \parencite{NLhighwaysigns1999}
+      - destination direction signs :: spec'ed by MUTCDC
+      - assurance sign :: assures the user that they are still on the correct path. Often includes distances to primary destinations.
+      - fingerboard sign :: generally these are pay-to-play signs which tell highway users what is at the next exit.
+	- In NS these are called /tourist attraction signs/ and /trail-blazers/, and are on the 100-series highways only.
+	- parks and historic sites are eligible, as are natural places, golf and ski areas, and others.
+	- attraction signage may not include:
+	  - wharves and marinas
+	  - farmers’ markets
+	  - craft and antique shops
+	  - art galleries
+	- attractions must be open 6mo/yr
+	- in NS signs are 4.8×0.9m, 4 per post
+      - street ID :: street name signs. At higher speeds these are 250mm high or more. They are often mounted to traffic light poles. 
+       
+*** urban / trail
+
+This class of signs is intended for low-speed urban settings, for people on foot, on bicycle or in wheelchairs, or using other active methods of transportation, or for motor vehicles travelling at low speeds. These sign-types should not be used in high-speed settings, they are too small and often too complex to be effective. 
+
+    - directional :: points someone in the direction of various destinations nearby.
+    - info kiosk :: a structure, usually at a pull-off or a trail/road junction, containing maps, amenity information and interpretive messages. These come in large and small sizes. 
+    - destination ID :: a sign announcing the start of a “place”.
+      - Trail ID :: destination sign for a trail.
+    - street ID :: street name signs, generally 100mm high in low-speed areas (and of variable width depending on the street name). These are usually mounted at 90° with another street ID, at an intersection. 
