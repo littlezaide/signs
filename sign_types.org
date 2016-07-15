@@ -1,4 +1,4 @@
-**** types
+* types
       - gateway :: large roadside sign at a boundary line. May be placed at the natural entrance to a county, municipality, town or site.
       - community ID :: highway sign announcing the boundary of a community. Sign type defined by NS Transportation and Infrastructure Renewal (TIR) as /community ID/, and is placed at the official boundary of a community (formerly known as general service area (GSA)). The same sign is known as /community welcome sign/ in NL. \parencite{NLhighwaysigns1999} 
       - promotional sign :: Sign to advertise a destination which lies far away (>10km). NL calls this /off-site promotional sign/ and defines the size as between 1.2 \times{} 2.4m and 2.4 \times{} 3.6m. \parencite{NLhighwaysigns1999} NS calls these advertising signs, and they may not be within 300m of an intersection in <80km/h zones, or 500m in >80km/h zones. 
@@ -17,7 +17,7 @@
 	- in NS signs are 4.8×0.9m, 4 per post
       - street ID :: street name signs. At higher speeds these are 250mm high or more. They are often mounted to traffic light poles. 
        
-*** urban / trail
+** urban / trail
 
 This class of signs is intended for low-speed urban settings, for people on foot, on bicycle or in wheelchairs, or using other active methods of transportation, or for motor vehicles travelling at low speeds. These sign-types should not be used in high-speed settings, they are too small and often too complex to be effective. 
 
